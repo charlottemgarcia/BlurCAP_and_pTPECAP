@@ -1,6 +1,7 @@
 # BlurCAP_and_pTPECAP
 
-Data Collection code for the Panoramic ECAP Method (PECAP) for Advanced Bionics Devices used for Garcia et al 2024 (JARO)
+Data Collection code for the Panoramic ECAP Method (PECAP) for Advanced Bionics Devices used for Garcia et al 2024 (JARO).
+
 This code is associated with an article submitted for publication to the Journal for the Association for Research in Otolaryngology (JARO) in January 2024 titled 'Investigating the effect of blurring and focusing current in cochlear implant users with the Panoramic ECAP method.' It is additionally associated with the preprint of the article submitted for publication. 
 
 The code contains data-collection software for PECAP data for Advanced Bionics cochlear implants, and must be used in conjunction with their research software the Bionic Ear Data Collection System (BEDCS) version 1.18. It additionally contains scripts to collect conditions where current is artificially blurred by stimulating multiple adjacent electrodes at once, or focused by returning some of the current to neighboring electrodes instead of to the ground electrode. 
